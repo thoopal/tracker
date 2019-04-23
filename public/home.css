@@ -1,0 +1,18 @@
+body {
+	margin: 30px 100px 30px 100px;
+	background-color: #6699ff;
+}
+
+h2 {
+
+	padding: 0px 0px 30px 0px;
+}
+
+h3 {
+
+	padding: 0px 0px 30px 0px;
+}
+
+.total {
+	font-weight: bold;
+}
